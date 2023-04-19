@@ -1,0 +1,1 @@
+﻿UPDATE Student SET Student_FinAid = '1500' WHERE Student_FirstName = 'Madison';

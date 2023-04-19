@@ -1,0 +1,8 @@
+﻿INSERT INTO Courses VALUES('1231', 'Single-Variable Calculus I', '75', '3')
+INSERT INTO Courses VALUES('1232', 'Single-Variable Calculus II', '75', '3')
+INSERT INTO Courses VALUES('1011', 'University Physics I', '150', '4')
+INSERT INTO Courses VALUES('1012', 'University Physics II', '150', '4')
+INSERT INTO Courses VALUES('4120', 'Business Systems Development', '75', '3')
+INSERT INTO Courses VALUES('4205', 'Web Applications Development', '75', '3')
+INSERT INTO Courses VALUES('1001', 'Stars, Planets, and Life in the Universe', '150', '4')
+INSERT INTO Courses VALUES('1002', 'Origin of the Cosmos', '150', '4')
